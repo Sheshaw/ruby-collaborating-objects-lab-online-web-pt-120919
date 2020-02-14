@@ -17,7 +17,6 @@ class MP3Importer
   end
   
   def files
-    @@all
   end
   
 end
